@@ -1,5 +1,5 @@
 {
-    "name": "ddd/wordpress-model",
+    "name": "rc/wordpress-model",
     "description": "ddd wordpress model",
     "type": "library",
     "authors": [
