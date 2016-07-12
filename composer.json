@@ -1,0 +1,19 @@
+{
+    "name": "ddd/wordpress-model",
+    "description": "ddd wordpress model",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Rafael Calleja",
+            "email": "rafa.calleja@d-noise.net"
+        }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Wp\\": "src/Wp"
+      }
+    },
+    "minimum-stability": "dev",
+    "require": {
+    }
+}
